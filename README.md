@@ -1,22 +1,26 @@
-Go Starter Web Server
-This project is a beginner's introduction to building web servers in Go(Golang). It uses ony Go's built-in libraries-no external dependencies-to keep things simple and easy to follow
+# Go Starter Web Server  
 
-What you'll learn
-How to setup basic HTTP server in Go
-How to create different toutes/endpoints
-How to send JSON responses
+This project is a **beginner-friendly introduction** to building web servers in **Go (Golang)**.  
+It uses only Go's **built-in libraries**—no external dependencies—so everything stays simple and easy to follow.  
 
-Requirements
-Go v1.16+installed
-Terminal/powershell/command prompt
-A text editor (VS Code)
+---
 
-Running the Project
-Clone the repository: 
-Run the server:
-go run main.go
+**<u>What You'll Learn</u>**  
+- How to set up a basic **HTTP server** in Go  
+- How to create multiple **routes/endpoints**  
+- How to send **JSON responses**  
 
-open in your browser:
-http://localhost:8080/ → Hello World message
+---
 
-http://localhost:8080/welcome/Beth → Personalized greeting
+**<u>Requirements</u>**  
+- **Go v1.16+** installed  
+- **Terminal / PowerShell / Command Prompt**  
+- A **text editor** (e.g., VS Code)  
+
+---
+
+**<u>Running the Project</u>**  
+
+1. **Clone the repository**  
+   ```bash
+   cd go-starter-web-server
